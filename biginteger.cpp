@@ -1,4 +1,4 @@
-#include "../biginteger.hpp"
+#include "biginteger.hpp"
 #include <cctype>
 
 void BigInteger::deleteMemory() {
